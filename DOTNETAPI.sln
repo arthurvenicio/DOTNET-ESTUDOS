@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNETAPI", "DOTNETAPI\DOTNETAPI.csproj", "{BAC76735-5508-4E25-A320-FFDDD3FAC41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNETAPI.SERVICES", "DOTNETAPI.SERVICES\DOTNETAPI.SERVICES.csproj", "{C17176CE-EF23-4A24-AD4C-ACA179C195FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNETAPI.TESTS", "DOTNETAPI.TESTS\DOTNETAPI.TESTS.csproj", "{FE12E2C7-5FB1-4C87-85FF-23380D450E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNETAPI.MODELS", "DOTNETAPI.MODELS\DOTNETAPI.MODELS.csproj", "{A22B9519-6544-4447-A21A-8314C8CF323F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC76735-5508-4E25-A320-FFDDD3FAC41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC76735-5508-4E25-A320-FFDDD3FAC41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC76735-5508-4E25-A320-FFDDD3FAC41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC76735-5508-4E25-A320-FFDDD3FAC41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17176CE-EF23-4A24-AD4C-ACA179C195FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17176CE-EF23-4A24-AD4C-ACA179C195FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17176CE-EF23-4A24-AD4C-ACA179C195FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17176CE-EF23-4A24-AD4C-ACA179C195FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE12E2C7-5FB1-4C87-85FF-23380D450E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE12E2C7-5FB1-4C87-85FF-23380D450E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE12E2C7-5FB1-4C87-85FF-23380D450E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE12E2C7-5FB1-4C87-85FF-23380D450E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22B9519-6544-4447-A21A-8314C8CF323F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22B9519-6544-4447-A21A-8314C8CF323F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22B9519-6544-4447-A21A-8314C8CF323F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22B9519-6544-4447-A21A-8314C8CF323F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
